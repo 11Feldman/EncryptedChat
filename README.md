@@ -27,4 +27,20 @@ Wikipedia: [Diffie-Hellman](https://es.wikipedia.org/wiki/Diffie-Hellman)
 ___
 Para poder realizar la prueba puede copiar el repositorio con el siguiente codigo
 
-git clone 
+git clone https://github.com/11Feldman/EncryptedChat.git
+
+Una vez que lo tenga descargado, debe abrir 2 ventanas de comando de consola.
+
+Primero debe iniciar el servidor desde la carpeta chat y luego el cliente.
+
+Por ejemplo.
+
+python server.py y en otra ventana de comando python client.py.
+
+A continuacion se muestra un ejemplo del chat.
+
+
+
+
+
+
