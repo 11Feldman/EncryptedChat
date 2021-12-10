@@ -20,6 +20,8 @@ Para ello se eligen dos números públicos y, cada interlocutor, un número secr
 
 A continuación ambos interlocutores utilizan por separado una fórmula matemática que combina los dos números transformados con su número secreto y al final los dos llegan al mismo número resultado, que será la clave compartida.
 
+https://github.com/11Feldman/EncryptedChat/blob/main/Diffie-Hellman-Schl%C3%BCsselaustausch.png
+
 Descripción detallada
 
 Diffie-Hellman.
