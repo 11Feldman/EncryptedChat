@@ -40,7 +40,7 @@ python server.py y en otra ventana de comando python client.py.
 A continuacion se muestra un ejemplo del chat.
 
 
-
+![Ejemplo Chat](https://user-images.githubusercontent.com/44484762/145518571-8ec08ff9-d975-4904-a950-ecadc266ea5c.jpg)
 
 
 
